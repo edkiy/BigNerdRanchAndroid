@@ -5,7 +5,9 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.bignerdranch.android.criminalintent.CrimeDBSchema.CrimeTable;
+import com.bignerdranch.android.criminalintent.db.CrimeBaseHelper;
+import com.bignerdranch.android.criminalintent.db.CrimeCursorWrapper;
+import com.bignerdranch.android.criminalintent.db.CrimeDBSchema.CrimeTable;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -90,7 +92,7 @@ public class CrimeLab {
         }
     }
 
-    public CrimeCursorWrapper queryCrimes(String whereClause, String[] whereArgs) {
+    private CrimeCursorWrapper queryCrimes(String whereClause, String[] whereArgs) {
         Cursor cursor = mDatabase.query(
                 CrimeTable.NAME,
                 null, // Columns - null selects all columns
@@ -109,7 +111,8 @@ public class CrimeLab {
         values.put(CrimeTable.Cols.UUID, crime.getId().toString());
         values.put(CrimeTable.Cols.TITLE, crime.getTitle());
         values.put(CrimeTable.Cols.DATE, crime.getDate().getTime());
-        values.put(CrimeTable.Cols.SOVLED, crime.isSolved() ? 1 : 0);
+        values.put(CrimeTable.Cols.SOLVED, crime.isSolved() ? 1 : 0);
+        values.put(CrimeTable.Cols.SUSPECT, crime.getSuspect());
 
         return values;
     }

@@ -1,10 +1,10 @@
-package com.bignerdranch.android.criminalintent;
+package com.bignerdranch.android.criminalintent.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.bignerdranch.android.criminalintent.CrimeDBSchema.CrimeTable;
+import com.bignerdranch.android.criminalintent.db.CrimeDBSchema.CrimeTable;
 
 /**
  * Created by kyle.roe on 31/05/16.
@@ -25,7 +25,8 @@ public class CrimeBaseHelper extends SQLiteOpenHelper {
                 CrimeTable.Cols.UUID + ", " +
                 CrimeTable.Cols.TITLE + ", " +
                 CrimeTable.Cols.DATE + ", " +
-                CrimeTable.Cols.SOVLED + ")"
+                CrimeTable.Cols.SOLVED + ", " +
+                CrimeTable.Cols.SUSPECT + ")"
         );
     }
 
