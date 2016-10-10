@@ -7,4 +7,4 @@
 .DS_Store
 /build
 /captures
-*/res/values/api-keys.xml
+/PhotoGallery/app/src/main/res/values/api-keys.xml
