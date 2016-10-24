@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_8622b4dcc5459fb0174f6f932d683ffcb144db3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1b97eb29ce9892a8771af437f44e3d0c0cbe05ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7923d6345b4d1f549c1efeea7b71ec82544f355b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_ecd8fbe48443fec43f14a023e4335866fc695a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eeba86ed023dea183f45cae7de996236cfd6ce71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_62d0b86d8d9ee9371f9aa2f684640aadcd1cfaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_970d3933bd28726def211ff35e5b37fd4fb153b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_dcc97f4c745975cd288ab53f0fbcd290ef984fac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.1_624d7eb6b547e6dc688afe944289b1f3c4c30f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d7944342d1cae4c56f2635369354c710226ef89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8f6e731953de26891d9c16025f6e6d8ed39ec5f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_57e26ef678b4154a4e9f2fe0e487bbca2bd9b7cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_980b7a7151b7919f9ee637132c6a453f69281392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_9e9842657047b8651dacf1f29dce87572fcdda0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_35d6ab5da7dfdc23d9360c730748fe2f45d95ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_8e70fc790ef50cc6f5b0578008cda35d4fea2d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_23800e9a6e003647e60429ce979603a1b820f2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_6f2801de4929b5bafe3ede9f0e265623ea43311e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_58d52e353f1245fd064980e030e5e5410a447eee.jar" />
+    </item>
+
+</items>
