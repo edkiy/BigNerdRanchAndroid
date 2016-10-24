@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="flickr_api_key">d6b198d4dc05897650218c90b41ad6d5</string>
+    <string name="google_api_key">AIzaSyCR_BYHeAw4rkLnUhPe4PxZyJKTwxCLKaY</string>
 </resources>

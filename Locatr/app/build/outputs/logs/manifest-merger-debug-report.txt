@@ -15,6 +15,7 @@ ADDED from /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/
 		INJECTED from /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
@@ -40,6 +41,7 @@ MERGED from [com.google.android.gms:play-services-location:9.6.1] /Users/kyle.da
 MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/AndroidManifest.xml:19:5-21:19
 MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:24:5-19
 	android:label
 		ADDED from /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/src/main/AndroidManifest.xml:12:9-41
 	android:supportsRtl
@@ -79,6 +81,7 @@ MERGED from [com.google.android.gms:play-services-location:9.6.1] /Users/kyle.da
 MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:23:5-42
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -101,3 +104,13 @@ ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/kyle.dal
 		ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/AndroidManifest.xml:20:66-119
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/AndroidManifest.xml:21:52-75

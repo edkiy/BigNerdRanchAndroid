@@ -4,12 +4,12 @@
         "source": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/kyle.daleroe/Documents/Android/BigNerdRanchAndroid/Locatr/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
