@@ -119,7 +119,7 @@ public class FlickrFetchr {
                 .appendQueryParameter("api_key", context.getString(R.string.flickr_api_key))
                 .appendQueryParameter("format", "json")
                 .appendQueryParameter("nojsoncallback", "1")
-                .appendQueryParameter("extras", "url_s")
+                .appendQueryParameter("extras", "url_s,geo")
                 .appendQueryParameter("method", SEARCH_METHOD)
                 .appendQueryParameter("lat", "" + location.getLatitude())
                 .appendQueryParameter("lon", "" + location.getLongitude())
@@ -144,6 +144,8 @@ public class FlickrFetchr {
             }
 
             item.setUrl(photoJsonObject.getString("url_s"));
+            item.setLatitude(photoJsonObject.getDouble("latitude"));
+            item.setLongitude(photoJsonObject.getDouble("latitude"));
             items.add(item);
         }
         Log.i(TAG, "Item size: " + items.size());
