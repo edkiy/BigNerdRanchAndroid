@@ -3,7 +3,6 @@ package com.bignerdranch.android.photogallery;
 import android.content.Context;
 import android.content.Intent;
 import android.support.v4.app.Fragment;
-import android.os.Bundle;
 
 public class PhotoGalleryActivity extends SingleFragmentActivity {
 
